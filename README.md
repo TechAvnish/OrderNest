@@ -3,7 +3,7 @@
 Description
 OrderNest is an all-in-one platform crafted to streamline customer management, inventory tracking, and order processing. Featuring secure login, role-based user permissions, and seamless MySQL integration, this application is built using Spring Boot and Thymeleaf to ensure an efficient and intuitive experience for both administrators and staff.
 
-Features
+# Features
 
 Customer Management: Easily add, update, and delete customer information.
 Inventory Management: Keep track of your inventory items, including stock levels and pricing.
@@ -13,7 +13,7 @@ Role-Based Access Control: Define roles and permissions for different user types
 Thymeleaf Templates: Utilizes Thymeleaf for dynamic HTML templates.
 Database Integration: Integrated with MySQL for data storage and retrieval.
 
-Technology Stack
+# Technology Stack
 
 
 Backend: Spring Boot, Java 8, Spring MVC, Spring Data JPA (Hibernate)
