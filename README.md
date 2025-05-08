@@ -2,7 +2,7 @@
 
 Description
 
-OrderNest is an all-in-one platform crafted to streamline customer management, inventory tracking, and order processing. Featuring secure login, role-based user permissions, and seamless MySQL integration, this application is built using Spring Boot and Thymeleaf to ensure an efficient and intuitive experience for both administrators and staff.
+OrderNest is an all-in-one platform crafted to streamline customer management, inventory tracking, and order processing. Featuring secure login, role-based user permissions, and seamless MongoDB integration, this application is built using Spring Boot and Thymeleaf to ensure an efficient and intuitive experience for both administrators and staff.
 
 # Features
 
