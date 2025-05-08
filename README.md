@@ -6,11 +6,17 @@ OrderNest is an all-in-one platform crafted to streamline customer management, i
 # Features
 
 Customer Management: Easily add, update, and delete customer information.
+
 Inventory Management: Keep track of your inventory items, including stock levels and pricing.
+
 Order Management: Manage customer orders, including order creation, updates, and status tracking.
+
 User Authentication: Secure login and authentication for admin and staff members.
+
 Role-Based Access Control: Define roles and permissions for different user types.
+
 Thymeleaf Templates: Utilizes Thymeleaf for dynamic HTML templates.
+
 Database Integration: Integrated with MySQL for data storage and retrieval.
 
 # Technology Stack
